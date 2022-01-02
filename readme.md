@@ -8,10 +8,9 @@ I enjoy being challenged and working on new projects. I am always trying to lear
 In particular, i like to experience new technologies and learn new programing languages as part of my career progression.  
 
 
-[![Linkedin Badge](https://img.shields.io/badge/MelihOzaslan01-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melih-özaslan/)
-[![Instagram Badge](https://img.shields.io/badge/MelihOzaslan01-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/melih_ozaslann/)
-[![Github Badge](https://img.shields.io/badge/MelihOzaslan01-gray?style=for-the-badge&logo=github)](https://github.com/MelihOzaslan01)
-[![DockerHub Badge](https://img.shields.io/badge/MelihOzaslan01-gray?style=for-the-badge&logo=docker)](https://hub.docker.com/u/ugurcandede)
+[![Linkedin Badge](https://img.shields.io/badge/MelihOzaslan-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melih-özaslan/)
+[![Instagram Badge](https://img.shields.io/badge/MelihOzaslan-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/melih_ozaslann/)
+[![Github Badge](https://img.shields.io/badge/MelihOzaslan-gray?style=for-the-badge&logo=github)](https://github.com/MelihOzaslan01)
 
 <p align="center" >
   <a href="https://github.com/MelihOzaslan01"> 
