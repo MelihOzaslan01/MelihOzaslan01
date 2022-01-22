@@ -19,5 +19,4 @@ In particular, i like to experience new technologies and learn new programing la
   </a>
 </p>
 
-![snake svg]
-(https://github.com/MelihOzaslan01/MelihOzaslan01/blob/output/github-contribution-grid-snake.svg)
+<div  align="center"> <img src="https://github.com/MelihOzaslan01/MelihOzaslan01/blob/output/github-contribution-grid-snake.svg" /></div>
