@@ -19,4 +19,16 @@ In particular, i like to experience new technologies and learn new programing la
   </a>
 </p>
 
+
+ <!--Statistics-->
+<div align="center">
+  <div align="center">
+<a href="https://github.com/MelihOzaslan01/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
+</a>
+<a href="https://github.com/MelihOzaslan01?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/MelihOzaslan01?style=flat-square&color=f75c7e">
+</a>
+  </div>
+  
 <div  align="center"> <img src="https://github.com/MelihOzaslan01/MelihOzaslan01/blob/output/github-contribution-grid-snake.svg" /></div>
