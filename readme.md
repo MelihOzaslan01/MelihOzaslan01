@@ -19,4 +19,20 @@ In particular, i like to experience new technologies and learn new programing la
   </a>
 </p>
 
+<!-- <table><tr>
+    <td valign="top" width="100%">
+        <div align="center">
+           <h2> <b> Language and Tools </b> </h2>
+        </div>
+        <div align="center">  
+         <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+            <img style="margin: 10px" alt="Vue" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
+            <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
+            <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+        </div></td><td valign="top" width="50%">
+        </tr>
+</table>-->
+
+
+
 <div  align="center"> <img src="https://github.com/MelihOzaslan01/MelihOzaslan01/blob/output/github-contribution-grid-snake.svg" /></div>
