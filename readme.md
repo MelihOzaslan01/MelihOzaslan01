@@ -18,3 +18,5 @@ In particular, i like to experience new technologies and learn new programing la
     <img height="160px" alt="Melih's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihOzaslan01&layout=compact&hide_border=true&theme=radical" />
   </a>
 </p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
