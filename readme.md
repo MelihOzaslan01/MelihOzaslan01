@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ozaslanmelih" target="blank"><img src="https://img.shields.io/twitter/follow/ozaslanmelih?logo=twitter&style=for-the-badge" alt="ozaslanmelih" /></a> </p>
 
+<p align="left"> <a href="https://www.instagram.com/melih_ozaslann/" target="blank"><img src="https://img.shields.io/badge/www.instagram.com-melih__ozaslann-brightgreen logo=instagram&style=for-the-badge" alt="melih_ozaslann" /></a> </p>
+
+
 - 🔭 I’m currently working on **.Net Core and MVC && Asp .Net Core Web API**
 
 - 🌱 I’m currently learning **.Net Core and Web API**
