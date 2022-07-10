@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihozaslan01&show_icons=true&locale=en&layout=compact" alt="melihozaslan01" /></p> </br>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -43,8 +45,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/melihozaslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="melihozaslan" /></a><a href="https://ko-fi.com/melihozaslan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="melihozaslan" /></a></p><br><br>
-
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihozaslan01&show_icons=true&locale=en&layout=compact" alt="melihozaslan01" /></p> </br>
 
  <br> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihozaslan01&show_icons=true&locale=en" alt="melihozaslan01" /></p> </br>
 
