@@ -10,8 +10,7 @@
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihozaslan01&show_icons=true&locale=en&layout=compact" alt="melihozaslan01" /></p> </br>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+https://medium.com/@melihozaslan01
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
