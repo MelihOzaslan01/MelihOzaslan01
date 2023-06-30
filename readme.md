@@ -7,10 +7,10 @@
 - 💬 Feel free to ask me about **C#**.
 - 📫 You can reach me at: **melihozaslan01@gmail.com**
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihozaslan01&show_icons=true&locale=en&layout=compact" alt="melihozaslan01" /></p> </br>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihozaslan01&show_icons=true&locale=en&layout=compact" alt="melihozaslan01" /></p> </br>  
 
 
-<h3 align="left">Get in touch:</h3>
+<h3 align="left">Get in touch:</h3>  
 <p align="left">
 <a href="https://twitter.com/ozaslanmelih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozaslanmelih" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/melih-özaslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-özaslan/" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 
 
 
-### Languages and Tools
+### Languages and Tools  
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="background-color:white;" width="40" height="40"/>
