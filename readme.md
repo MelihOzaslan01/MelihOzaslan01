@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Osman Melih</h1>
-<h3 align="center">
+<h3 align="left">
  My name is Melih. I'm a passionate backend developer from Turkey. I hold a degree in Management Information Systems from Uludağ University. I have a strong proficiency in .NET, C#, Python, and MySQL.
 I find joy in taking on challenging projects and exploring new ventures. Learning new skills and staying up-to-date with emerging technologies and programming languages is something I constantly strive for.
 I particularly enjoy working with .NET, including the .NET Framework and .NET Core. I have extensive experience in developing web applications, APIs, and database projects using these platforms. C# is one of my favorite programming languages, thanks to its object-oriented programming capabilities and rich library support, enabling me to deliver efficient solutions.
