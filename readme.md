@@ -1,5 +1,5 @@
 <h1 align="left"> Hello there 👋, I'm Osman Melih</h1>
-<h3 align="left">👋 I’m a passionate backend developer from Turkey with a degree in Management Information Systems from Uludağ University. I have strong proficiency in .NET, C#, Python, and MySQL. I love working with .NET and C#, delivering efficient solutions with their rich libraries. . I’m dedicated to continuously improving myself and staying updated with technological trends. Let’s create something amazing together! 💻</h3>
+<h3 align="left">👋 I’m a passionate backend developer from Turkey with a degree in Management Information Systems from Uludağ University. I have strong proficiency in .NET, C#, Python, and MySQL. I love working with .NET and C#, delivering efficient solutions with their rich libraries.I’m dedicated to continuously improving myself and staying updated with technological trends. Let’s create something amazing together! 💻</h3>
 
 - 🔭 I'm currently working on **.NET Core, MVC, and ASP.NET Core Web API**.
 - 🌱 I'm currently learning **.NET Core and Web API**.
