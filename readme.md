@@ -1,10 +1,14 @@
-<h1 align="left"> Hello there 👋, I'm Melih</h1> <h3 align="left">👋 I’m a dedicated RPA and Software Developer from Turkey with a strong background in backend development and a degree in Management Information Systems from Uludağ University. My expertise spans across RPA development, .NET, C#, Python, and MySQL. I’m passionate about creating efficient, automated solutions and optimizing business processes using Robotic Process Automation (RPA). Let’s transform ideas into reality together! 🚀</h3>
-🔭 I'm currently working on RPA development, creating automated workflows that improve efficiency using tools like UiPath and custom automation scripts with C# and Python.
-🌱 I’m enhancing my skills in .NET Core, Web API, and Advanced RPA scripting for complex automation processes.
-💡 Experienced in automating systems like SAP, Outlook, and Excel, and developing custom automation bots to streamline business operations.
-👯 I’m looking to collaborate on RPA and backend development projects.
-💬 Feel free to ask me about RPA development, C#, SAP automation, and process optimization.
-📫 You can reach me at: melihozaslan01@gmail.com
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihozaslan01&show_icons=true&locale=en&layout=compact" alt="melihozaslan01" /></p> </br>
+# Hello there 👋, I'm Melih
 
-<h3 align="left">Get in touch:</h3> <p align="left"> <a href="https://twitter.com/ozaslanmelih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozaslanmelih" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/melih-özaslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melih-özaslan/" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17376278/melih-özaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17376278/melih-özaslan" height="30" width="40" /></a> <a href="https://fb.com/https://www.facebook.com/melih.ozaslan.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/melih.ozaslan.9" height="30" width="40" /></a> <a href="https://instagram.com/https://www.instagram.com/melih.ozaslan/?hl=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/melih.ozaslan/?hl=tr" height="30" width="40" /></a> </p>
+I build intelligent automation systems by combining RPA, backend engineering, AI, and analytics to optimize enterprise operations and business processes.
+
+My expertise spans across .NET, C#, Python, SQL, and enterprise automation technologies such as UiPath, SAP, Outlook, and Excel automation. I focus on designing scalable backend services, orchestration systems, observability solutions, and AI-assisted platforms that improve operational efficiency and decision-making.
+
+Currently, I’m working on:
+- AI-powered automation systems
+- Enterprise RPA orchestration & monitoring platforms
+- Intelligent forecasting and decision-support solutions
+- AI governance and automation architecture
+- Dashboard and analytics systems for operational excellence
+
+I enjoy transforming complex business operations into scalable, maintainable, and intelligent software systems.
